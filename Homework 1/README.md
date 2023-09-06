@@ -1,4 +1,5 @@
 # Homework 1
+1/c Jake Carpenter
 
 ## Provisioning the Machine
 To provision the VM I started by creating my HTML directory and placing the homework.html file in it. Then I wrote the bootstrap.sh file in the box's directory, and then downloaded and installed the new box
