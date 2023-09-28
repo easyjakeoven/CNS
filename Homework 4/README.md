@@ -1,5 +1,5 @@
 # Homework 4
-1/c Jake Carpenter, CNS, 7SEP23
+1/c Jake Carpenter, CNS, 27SEP23
 
 ## Part 2
 ![Screenshot 1](hw4_part2_1.png)
@@ -21,14 +21,14 @@ The screenshot shows the status of our execution policy. The policy that we chos
 ## Part 4.2
 ![Screenshot 1](hw4_part4.2.png)
 
-The screenshot above is the really cool script that I ran :O
+The screenshot above is the custom script that I ran.
 
 ## Part 4.3
 ![Screenshot 1](hw4_part4.3_1.png)
 ![Screenshot 1](hw4_part4.3_2.png)
 ![Screenshot 1](hw4_part4.3_3.png)
 
-In our DC enviornment, we decided that BadBlood needed to give us 4000 new users, 500 new groups, and 200 new computers. We ran into little errors when we ran this. There were a lot of new people added to it.
+In our DC enviornment, we decided that BadBlood needed to give us 4000 new users, 500 new groups, and 200 new computers. We ran into little errors when executing it. There were a lot of new people added.
 
 
 
