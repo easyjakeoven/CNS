@@ -6,37 +6,37 @@
 
 Step 6 of 10.2:
 ![Screenshot 1](step6_of_10.2.png)
-<br />
+
 
 Step 12 of 10.2:
 ![Screenshot 1](step12_of_10.2.png)
-<br />
+
 
 Step 4 of 10.4:
 ![Screenshot 1](step4_of_10.4.png)
-<br />
+
 
 Step 9 of 10.4:
 ![Screenshot 1](step9_of_10.4.png)
-<br />
+
 
 ## Part 3
 
 ![Screenshot 1](part3_1.png)
 I downloaded a linux virtual box to do the assignment in. I generated my SSH keys in it before I SSHed into my Jump Box.
-<br /><br />
+
 
 
 
 ![Screenshot 1](part3_2.png)
 I copied my public key into my Jump Box from my VM.
-<br /><br />
+
 
 
 
 ![Screenshot 1](part3_3.png)
 I was able to log into my Jump Box without having to type in my password.
-<br /><br />
+
 
 
 
