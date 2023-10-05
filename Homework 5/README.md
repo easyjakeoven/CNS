@@ -23,7 +23,7 @@ Step 9 of 10.4:
 ## Part 3
 
 ![Screenshot 1](part3_1.png)
-\nI downloaded a linux virtual box to do the assignment in. I generated my SSH keys in it before I SSHed into my Jump Box.
+I downloaded a linux virtual box to do the assignment in. I generated my SSH keys in it before I SSHed into my Jump Box.
 
 ![Screenshot 1](part3_2.png)
 I copied my public key into my Jump Box from my VM.
