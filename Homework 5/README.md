@@ -5,19 +5,19 @@
 ## Part 2
 
 Step 6 of 10.2:
-![Screenshot 1](step6 of 10.2.png)
+![Screenshot 1](step6_of_10.2.png)
 
 
 Step 12 of 10.2:
-![Screenshot 1](step12 of 10.2.png)
+![Screenshot 1](step12_of_10.2.png)
 
 
 Step 4 of 10.4:
-![Screenshot 1](step4 of 10.4.png)
+![Screenshot 1](step4_of_10.4.png)
 
 
 Step 9 of 10.4:
-![Screenshot 1](step9 of 10.4.png)
+![Screenshot 1](step9_of_10.4.png)
 
 
 ## Part 3
