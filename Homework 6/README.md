@@ -14,3 +14,10 @@ My certificate:
 
 
 ## Part 4
+The Windows event ID that I chose to exclude was 5145. The description for it is: "A network share object was checked to see whether client can be granted."
+
+## Part 5
+My input.conf file
+![Screenshot 1](part_4.png)
+
+## Part 6
