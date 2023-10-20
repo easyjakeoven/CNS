@@ -18,6 +18,6 @@ The Windows event ID that I chose to exclude was 5145. The description for it is
 
 ## Part 5
 My input.conf file
-![Screenshot 1](part_4.png)
+![Screenshot 1](part_5.png)
 
 ## Part 6
