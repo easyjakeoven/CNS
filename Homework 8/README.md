@@ -3,7 +3,7 @@
 
 ## Part 2
 ![Screenshot 1](hw8_4.png)
-The tool that I used and researched was Gobuster. Gobuster is a tool used for brute-forcing website URLs to find directories, files, and subdomains. You can request which types of files you want Gobuster to report back to you with, and which website to brute-force. Gobuster takes a while to complete, but it is a thorough program which gives a significant amount of information. Gobuster comes pre-installed on ParrotOS, accessible from the drop-down menu on the top under "Pentesting" and "Most Used Tools." Although it does not automatically come with Kali, you can easily install Gobuster by typing it into the terminal. Gobuster uses the HTTP protocol and gives the user the status code of each reported object (i.e. 200, 403, etc). Gobuster has official Kali documentation; but its origin is on a Github repository from a user named OJ Reeves. 
+The tool that I used and researched was Gobuster. Gobuster is a tool used for brute-forcing website URLs to find directories, files, and subdomains. You can request which types of files you want Gobuster to report back to you with, and which website to brute-force. Gobuster takes a while to complete, but it is a thorough program which gives a significant amount of information. Gobuster comes pre-installed on ParrotOS, accessible from the drop-down menu on the top under "Pentesting" and "Most Used Tools." Although it does not automatically come with Kali, you can easily install Gobuster by typing it into the terminal. Gobuster uses the HTTP protocol and gives the user the status code of each reported object (i.e. 200, 403, etc). Gobuster has official Kali documentation; but its origin is on a Github repository created by a user named OJ Reeves. 
 
 ## Part 3 (Demo)
 
