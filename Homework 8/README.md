@@ -8,16 +8,16 @@ The tool that I used and researched was Gobuster. Gobuster is a tool used for br
 ## Part 3 (Demo)
 
 ![Screenshot 1](hw8_1.png)
-When I started the homework, I realized I needed to set up a Web Application on my network that I could break into. So I installed a Vagrant Box which came pre-installed with a Damn Vulnerable Web Application. After I fully configured it to get off of the local host, and connect onto our network, I verified that all the hosts and VMs I had could connect to it.
+When I started the homework, I realized I needed to set up a Web Application on my network that I could break into. So I installed a Vagrant Box which came pre-installed with Damn Vulnerable Web Application. After I fully configured it to get off of the local host, and connect onto our network, I verified that all the hosts and VMs I had could connect to it.
 
 ![Screenshot 1](hw8_2.png)
-I was able to open the webpage on my Kali machine.
+I was able to open the webpage on my Kali machine. It took me to a login page.
 
 ![Screenshot 1](hw8_3.png)
-I could also open the webpage on my AD.
+I could also open the webpage on my AD (it also worked on my ParrotOS machine). 
 
 ![Screenshot 1](hw8_5.png)
-Once I connected to the webpage, it took me to a login page. I ran Gobuster to see what information I could access to get through this. I used a wordlist that came pre-installed with Kali. I searched for .php and .txt files. After forever, my search was done and I got a bunch of results back. The most promising lead was to open up the docs directory.
+I ran Gobuster to see what information I could access to get through this login page. I used a wordlist that came pre-installed with Kali. I searched for .php and .txt files. After forever, my search was done and I got a bunch of results back. The most promising lead was to open up the docs directory.
 
 ![Screenshot 1](hw8_7.png)
 When I opened that URL, I had two files. I opened the PDF.
